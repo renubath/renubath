@@ -18,8 +18,13 @@
         <loc>https://renubath.in/contact.html</loc>
         <priority>0.8</priority>
     </url>
-        <url>
+    <url>
         <loc>https://renubath.in/blog/bathroom-renovation-cost-bangalore.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://renubath.in/blog/bathroom-vastu.html</loc>
         <priority>0.8</priority>
     </url>
 
